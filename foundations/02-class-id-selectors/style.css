@@ -8,12 +8,11 @@
   font-size: 36px;
 }
 
-.statement.supplement {
+.adjust-font-size {
   font-size: 24px;
 }
 
 #element2 {
   background-color: #4ce44c;
-  font-size: 24px;
   font-weight: bold;
 }
