@@ -7,3 +7,13 @@
   color: rgb(0, 0, 255);
   font-size: 36px;
 }
+
+.statement.supplement {
+  font-size: 24px;
+}
+
+#element2 {
+  background-color: #4ce44c;
+  font-size: 24px;
+  font-weight: bold;
+}
